@@ -34,4 +34,5 @@ I'm an Aspiring full-stack developer and Quantum ML Learner. All coding projects
 
 <details>
  <summary><h3>👨‍💻 My Plans for Future</h3></summary>
+ Well, I have started with Frontend and will be pursuing Full-Stack in between I am gonna change my OS to Linux from Windows. I have a peculiar interest in Cybersecurity and the Pentesting Domain, so I am gonna learn it well enough to Pass the OSCP Certification Exam. To satisfy my curiosity in Physics and Mathematics, I have started exploring Quantum Machine Learning and started to learn prerequisites, To make it possible first I have to learn Machine Learning and then I will learn Quantum Computing Languages such as Qiskit or Cirq with Concepts of Quantum Physics. I am gonna be the BEST Programmer, better than me
 
