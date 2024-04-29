@@ -1,6 +1,6 @@
 # 🏄‍♂️ Rambabu Singh
 
-I'm an Aspiring full-stack developer and Quantum ML Learner. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm an Aspiring Penetration Tester and Quantum ML Learner. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
    <p align="left">
       <a href="https://github.com/godly-raam?tab=followers">
