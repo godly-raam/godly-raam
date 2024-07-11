@@ -1,6 +1,6 @@
 # 🏄‍♂️ Rambabu Singh
 
-I'm an Aspiring Penetration Tester and Quantum ML Learner. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a Penetration Tester. All projects are built from the ground up, from planning and designing all the way to breaking real-life solutions with code
 
    <p align="left">
       <a href="https://github.com/godly-raam?tab=followers">
@@ -33,6 +33,21 @@ I'm an Aspiring Penetration Tester and Quantum ML Learner. All coding projects a
 #
 
 <details>
- <summary><h3>👨‍💻 My Plans for Future</h3></summary>
- Well, I have started with Frontend and will be pursuing Full-Stack in between I am gonna change my OS to Linux from Windows. I have a peculiar interest in Cybersecurity and the Pentesting Domain, so I am gonna learn it well enough to Pass the OSCP Certification Exam. To satisfy my curiosity in Physics and Mathematics, I have started exploring Quantum Machine Learning and started to learn prerequisites, To make it possible first I have to learn Machine Learning and then I will learn Quantum Computing Languages such as Qiskit or Cirq with Concepts of Quantum Physics. I am gonna be the BEST Programmer, better than me
+ <summary><h3>👨‍💻 About Me</h3></summary>
+Rambabu Singh is an experienced penetration tester and a skilled CTF player with a deep-rooted passion for cybersecurity. His journey in this field has been marked by consistent growth and a dedication to mastering the art of identifying and mitigating vulnerabilities.
 
+From the onset of his career, he has immersed himself in various cybersecurity challenges and CTF competitions, honing his skills and gaining invaluable experience. His ability to think like an attacker and anticipate potential security flaws sets him apart in the industry. He is adept at conducting thorough vulnerability assessments, performing internal and external network penetration testing, and providing actionable insights to enhance security postures.
+
+His core competencies include:
+- Extensive Vulnerability Analysis & Patching
+- Internal / External Network Penetration Testing + Red Team Operations
+- Active Directory Penetration Testing
+- Wireless Network Penetration Testing & Security
+- Web Application Penetration & Security Testing + Patching
+- Setup & Configuration of Secure Enterprise/Corporate Infrastructure
+- Network Traffic Capture & Analysis
+- Social Engineering + OSINT
+- Linux System Administration & Linux Server Security + Hardening
+- Bash & Python Scripting
+
+He is not only dedicated to advancing his skills but also committed to sharing his knowledge with the cybersecurity community. Through his participation in CTF competitions and collaborative projects, he continually contributes to the growth and development of the field
