@@ -23,7 +23,7 @@ I'm a Penetration Tester. All projects are built from the ground up, from planni
 
 <details>
  <summary><h3>👨‍💻 About Me</h3></summary>
-Rambabu Singh is an experienced penetration tester and a skilled CTF player with a deep-rooted passion for cybersecurity. His journey in this field has been marked by consistent growth and a dedication to mastering the art of identifying and mitigating vulnerabilities.
+Diogenes is an experienced penetration tester and a skilled CTF player with a deep-rooted passion for cybersecurity. His journey in this field has been marked by consistent growth and a dedication to mastering the art of identifying and mitigating vulnerabilities.
 
 From the onset of his career, he has immersed himself in various cybersecurity challenges and CTF competitions, honing his skills and gaining invaluable experience. His ability to think like an attacker and anticipate potential security flaws sets him apart in the industry. He is adept at conducting thorough vulnerability assessments, performing internal and external network penetration testing, and providing actionable insights to enhance security postures.
 
