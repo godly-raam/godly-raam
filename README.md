@@ -1,42 +1,49 @@
-# 💀⃤ Diogenes
+<h2 align="left">Hi 👋! I'm a Penetration Tester. All projects are built from the ground up, from planning and designing all the way to breaking real-life solutions with code</h2>
 
-I'm a Penetration Tester. All projects are built from the ground up, from planning and designing all the way to breaking real-life solutions with code
+###
 
-   <p align="left">
-      <a href="https://github.com/godly-raam?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/godly-raam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/godly-raam?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/godly-raam?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
 
-### 📊 Stats
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=godly-raam&show_icons=true&theme=gruvbox)
+###
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=godly-raam&theme=gruvbox&border_radius=4.5) -->
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-#
+###
 
-<details>
- <summary><h3>👨‍💻 About Me</h3></summary>
-Diogenes is an experienced penetration tester and a skilled CTF player with a deep-rooted passion for cybersecurity. His journey in this field has been marked by consistent growth and a dedication to mastering the art of identifying and mitigating vulnerabilities.
+<br clear="both">
 
-From the onset of his career, he has immersed himself in various cybersecurity challenges and CTF competitions, honing his skills and gaining invaluable experience. His ability to think like an attacker and anticipate potential security flaws sets him apart in the industry. He is adept at conducting thorough vulnerability assessments, performing internal and external network penetration testing, and providing actionable insights to enhance security postures.
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-His core competencies include:
-- Extensive Vulnerability Analysis & Patching
-- Internal / External Network Penetration Testing + Red Team Operations
-- Active Directory Penetration Testing
-- Wireless Network Penetration Testing & Security
-- Web Application Penetration & Security Testing + Patching
-- Setup & Configuration of Secure Enterprise/Corporate Infrastructure
-- Network Traffic Capture & Analysis
-- Social Engineering + OSINT
-- Linux System Administration & Linux Server Security + Hardening
-- Bash & Python Scripting
-
-He is not only dedicated to advancing his skills but also committed to sharing his knowledge with the cybersecurity community. Through his participation in CTF competitions and collaborative projects, he continually contributes to the growth and development of the field
+###
