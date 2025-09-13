@@ -1,33 +1,102 @@
-<h2 align="left">Hi 👋! I'm a Penetration Tester. All projects are built from the ground up, from planning and designing all the way to breaking real-life solutions with code</h2>
-###
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Cybersecurity+Researcher;Penetration+Testing+Specialist;Building+Security+Solutions" />
+</h1>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godly-raam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=godly-raam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" height="200" />
 </div>
-###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-###
+
+<h2 align="center">🛡️ Security Professional & Code Architect</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Specialty-Penetration%20Testing-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Approach-Code%20Driven-purple?style=flat-square" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=godly-raam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=godly-raam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<img align="right" height="180" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+
+## ⚡ Technical Arsenal
+
+**Core Languages & Scripting**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" title="Python" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30" alt="bash logo"  />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="35" alt="bash logo" title="Bash" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" height="30" alt="powershell logo"  />
+  <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" height="35" alt="powershell logo" title="PowerShell" />
   <img width="12" />
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" height="30" alt="kali linux"  />
-  <img width="12" />
-  <img src="https://github.com/rapid7/metasploit-framework/raw/master/documentation/logos/metasploit_logo.png" height="30" alt="metasploit"  />
-  <img width="12" />
-  <img src="https://portswigger.net/content/images/logos/burp-suite-professional.svg" height="30" alt="burp suite"  />
-  <img width="12" />
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="30" alt="nmap"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" title="JavaScript" />
 </div>
-###
+
+**Security & Testing Frameworks**
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://www.kali.org/images/kali-dragon-icon.svg" height="35" alt="kali linux" title="Kali Linux" />
+  <img width="12" />
+  <img src="https://github.com/rapid7/metasploit-framework/raw/master/documentation/logos/metasploit_logo.png" height="35" alt="metasploit" title="Metasploit Framework" />
+  <img width="12" />
+  <img src="https://portswigger.net/content/images/logos/burp-suite-professional.svg" height="35" alt="burp suite" title="Burp Suite" />
+  <img width="12" />
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="35" alt="nmap" title="Network Mapper" />
 </div>
-###
+
 <br clear="both">
-<img src="https://raw.githubusercontent.com/godly-raam/godly-raam/output/snake.svg" alt="Snake animation" />
-###
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| **Research Area** | **Application** | **Status** |
+|:-----------------:|:---------------:|:----------:|
+| **Web Application Security** | Custom exploit development | `Active` |
+| **Network Penetration** | Infrastructure assessment | `Active` |
+| **Quantum Computing Security** | Research & implementation | `Research` |
+| **Automation Frameworks** | Tool development | `Development` |
+
+</div>
+
+---
+
+## 📊 Development Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/godly-raam/godly-raam/output/snake.svg" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🔗 Professional Links
+
+<div align="center">
+  <a href="https://x.com/0xBanshoman" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Professional%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:rambabu.ksingh2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Professional%20Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=godly-raam&color=blueviolet&style=flat-square&label=Profile+Views" />
+</div>
+
+<div align="center">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300" height="200" />
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=6A9955&center=true&vCenter=true&width=600&height=30&lines=Building+secure+systems+through+ethical+hacking;Code+•+Test+•+Secure+•+Repeat" />
+</p>
