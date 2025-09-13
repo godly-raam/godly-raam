@@ -41,7 +41,7 @@
 <div align="left">
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" height="40" alt="kali linux" title="Kali Linux" />
   <img width="17" />
-  <img src="https://github.com/rapid7/metasploit-framework/raw/master/documentation/logos/metasploit_logo.png" height="40" alt="metasploit" title="Metasploit Framework" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" height="40" alt="metasploit" title="Metasploit Framework" />
   <img width="17" />
   <img src="https://portswigger.net/content/images/logos/burp-suite-professional.svg" height="40" alt="burp suite" title="Burp Suite" />
   <img width="17" />
