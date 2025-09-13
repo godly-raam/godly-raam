@@ -51,9 +51,6 @@
 <br clear="both">
 
 ---
-
----
-
 ## 📊 Development Activity
 
 <div align="center">
