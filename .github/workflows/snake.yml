@@ -33,7 +33,6 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-            dist/snake-red.svg?color_snake=#ff6b6b&color_dots=#c41e3a,#ff6b6b,#ffa8a8,#ffe3e3
             
       # Push the generated files to the output branch
       - name: Push to output branch
