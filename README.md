@@ -28,24 +28,24 @@
 
 **Core Languages & Scripting**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" title="Python" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="35" alt="bash logo" title="Bash" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" height="35" alt="powershell logo" title="PowerShell" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
+  <img width="17" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="bash logo" title="Bash" />
+  <img width="17" />
+  <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" height="40" alt="powershell logo" title="PowerShell" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
 </div>
 
 **Security & Testing Frameworks**
 <div align="left">
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" height="35" alt="kali linux" title="Kali Linux" />
-  <img width="12" />
-  <img src="https://github.com/rapid7/metasploit-framework/raw/master/documentation/logos/metasploit_logo.png" height="35" alt="metasploit" title="Metasploit Framework" />
-  <img width="12" />
-  <img src="https://portswigger.net/content/images/logos/burp-suite-professional.svg" height="35" alt="burp suite" title="Burp Suite" />
-  <img width="12" />
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="35" alt="nmap" title="Network Mapper" />
+  <img src="https://www.kali.org/images/kali-dragon-icon.svg" height="40" alt="kali linux" title="Kali Linux" />
+  <img width="17" />
+  <img src="https://github.com/rapid7/metasploit-framework/raw/master/documentation/logos/metasploit_logo.png" height="40" alt="metasploit" title="Metasploit Framework" />
+  <img width="17" />
+  <img src="https://portswigger.net/content/images/logos/burp-suite-professional.svg" height="40" alt="burp suite" title="Burp Suite" />
+  <img width="17" />
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" alt="nmap" title="Network Mapper" />
 </div>
 
 <br clear="both">
