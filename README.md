@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Specialty-Penetration%20Testing-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Approach-Code%20Driven-purple?style=flat-square" />
 </p>
 
 ---
