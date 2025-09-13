@@ -6,7 +6,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtxbG53Nm90NGllanp1aW4zeDB4ZWMxN3QyaDIyN243dXB5ZnN3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11Dy2WsAKdmaPu/giphy.gif" width="400" height="200" />
 </div>
 
-<h2 align="center">🛡️ Professional Gooner</h2>
+<h2 align="center"> Professional Gooner</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security-blue?style=flat-square" />
@@ -69,15 +69,6 @@
 </div>
 
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=godly-raam&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
-
-<div align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300" height="200" />
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=6A9955&center=true&vCenter=true&width=600&height=30&lines=Building+secure+systems+through+ethical+hacking;Code+•+Test+•+Secure+•+Repeat" />
-</p>
