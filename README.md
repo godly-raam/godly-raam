@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" height="200" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtxbG53Nm90NGllanp1aW4zeDB4ZWMxN3QyaDIyN243dXB5ZnN3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11Dy2WsAKdmaPu/giphy.gif" width="400" height="200" />
 </div>
 
 <h2 align="center">🛡️ Security Professional & Code Architect</h2>
