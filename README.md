@@ -52,19 +52,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-| **Research Area** | **Application** | **Status** |
-|:-----------------:|:---------------:|:----------:|
-| **Web Application Security** | Custom exploit development | `Active` |
-| **Network Penetration** | Infrastructure assessment | `Active` |
-| **Quantum Computing Security** | Research & implementation | `Research` |
-| **Automation Frameworks** | Tool development | `Development` |
-
-</div>
-
 ---
 
 ## 📊 Development Activity
