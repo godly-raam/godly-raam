@@ -6,8 +6,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtxbG53Nm90NGllanp1aW4zeDB4ZWMxN3QyaDIyN243dXB5ZnN3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11Dy2WsAKdmaPu/giphy.gif" width="400" height="200" />
 </div>
 
-<h2 align="center"> Professional Gooner</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Specialty-Penetration%20Testing-green?style=flat-square" />
