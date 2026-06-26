@@ -17,7 +17,7 @@
 - 👯 Looking to collaborate on **Open-source cybersecurity tools, Red Team automation, Active Directory labs, AI for offensive security, CTF projects**
 - 🏆 **Top 3% globally on TryHackMe** · **Top 50 Teams @ IIIT Nagpur CTF** · **AQVH 2025 Finalist**
 - 📫 Reach me at **rambabu.ksingh2005@gmail.com**
-- 📄 Resume: **[View here](https://drive.google.com/file/d/1birAZTyMgPOtT-a1VFKOVFHeZHVygBHR/view?usp=sharing)**
+- 📄 Resume: **[View here](https://drive.google.com/file/d/1oNwbFvjSo1vJJh2f36Q6XtKgYPq5nyOz/view?usp=sharing)**
 
 ---
 
