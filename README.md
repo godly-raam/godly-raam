@@ -49,12 +49,6 @@
   <a href="https://go.dev" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
   </a>
-  <a href="https://isocpp.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
-  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
   </a>
@@ -129,9 +123,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/TryHackMe-Top_3%25_Global-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Top 3%" />
-  <img src="https://img.shields.io/badge/HTB-CPTS_(In_Progress)-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="CPTS" />
-  <img src="https://img.shields.io/badge/CTF-Top_50_@_IIIT_Nagpur-0E4DA4?style=for-the-badge&logoColor=white" alt="CTF" />
-  <img src="https://img.shields.io/badge/AQVH_2025-Finalist-8B5CF6?style=for-the-badge&logoColor=white" alt="AQVH Finalist" />
 </p>
 
 ---
