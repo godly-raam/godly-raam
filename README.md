@@ -1,72 +1,44 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Cybersecurity+Researcher;Penetration+Testing+Specialist;Building+Security+Solutions" />
-</h1>
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtxbG53Nm90NGllanp1aW4zeDB4ZWMxN3QyaDIyN243dXB5ZnN3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11Dy2WsAKdmaPu/giphy.gif" width="400" height="200" />
-</div>
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=Rambabu%20Singh&fontColor=ff003c&fontSize=70&desc=Offensive%20Security%20%26%20Vulnerability%20Researcher&descAlignY=75&descAlign=62&stroke=ff003c)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Specialty-Penetration%20Testing-green?style=flat-square" />
+  <a href="https://github.com/godly-raam">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=ff003c&center=true&vCenter=true&width=800&height=120&lines=%3E_+$+whoami;Offensive+Security+Researcher+%7C+Red+Teamer;%3E_+$+cat+skills.txt;Exploit+Development+%7C+AD+Attacks+%7C+Web+App+Sec;%3E_+$+./view_projects.sh;C2+Frameworks+%7C+Automated+Cyber+Ranges+%7C+QRC;%3E_+$+status;Actively+seeking+Jr.+Penetration+Tester+roles!" alt="Typing SVG" />
+  </a>
 </p>
 
----
+### `>_ neofetch --profile`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godly-raam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=godly-raam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Degree-B.Tech_Computer_Engineering-0d1117?style=flat-square&logo=academia&logoColor=ff003c&labelColor=0d1117&color=ff003c" alt="Degree" />
+  <img src="https://img.shields.io/badge/University-G.H._Raisoni_College_Pune-0d1117?style=flat-square&logo=google-scholar&logoColor=ff003c&labelColor=0d1117&color=ff003c" alt="University" />
+  <img src="https://img.shields.io/badge/Location-Pune,_India-0d1117?style=flat-square&logo=google-maps&logoColor=ff003c&labelColor=0d1117&color=ff003c" alt="Location" />
+</p>
 
----
+### `>_ ping -c 4 network.links`
 
-## ⚡ Technical Arsenal
+<p align="center">
+  <a href="mailto:rambabu.singh@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=ff003c&color=ff003c" alt="Email" /></a>
+  <a href="https://linkedin.com/in/rambabu-singh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff003c&color=ff003c" alt="LinkedIn" /></a>
+  <a href="https://github.com/godly-raam"><img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=ff003c&color=ff003c" alt="GitHub" /></a>
+</p>
 
-**Core Languages & Scripting**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
-  <img width="17" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="bash logo" title="Bash" />
-  <img width="17" />
-  <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" height="40" alt="powershell logo" title="PowerShell" />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-</div>
+### `>_ curl -s https://api.github.com/users/godly-raam/stats`
 
-**Security & Testing Frameworks**
-<div align="left">
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" height="40" alt="kali linux" title="Kali Linux" />
-  <img width="17" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" height="40" alt="metasploit" title="Metasploit Framework" />
-  <img width="17" />
-  <img src="https://portswigger.net/content/images/logos/burp-suite-professional.svg" height="40" alt="burp suite" title="Burp Suite" />
-  <img width="17" />
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" alt="nmap" title="Network Mapper" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=godly-raam&color=ff003c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/godly-raam?style=flat-square&logo=github&color=ff003c&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/godly-raam?style=flat-square&logo=github&color=ff003c&labelColor=0d1117" alt="Stars" />
+</p>
 
-<br clear="both">
+### `>_ cat /etc/passwd | grep "rambabu"`
 
----
-## 📊 Development Activity
+I am a Computer Engineering student and offensive security researcher specializing in automated exploit development, Active Directory attacks, and modern defense evasion. Ranked globally in the Top 3% on TryHackMe, I build custom exploitation tooling and simulate complex network architectures in controlled lab environments.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/godly-raam/godly-raam/output/snake.svg" alt="Contribution Graph" />
-</div>
+```bash
+#!/bin/bash
+export ROLE="Offensive Security & Vulnerability Researcher"
+export DOMAIN="Red Teaming | Exploit Development | Vulnerability Research"
+export STACK="Python, C/C++, Bash, Go, Docker, Linux, Windows Server"
+export OPEN_TO="Jr. Penetration Tester | Red Teaming Roles | Offensive Security"
 
----
-
-## 🔗 Professional Links
-
-<div align="center">
-  <a href="https://x.com/0xBanshoman" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Professional%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:rambabu.ksingh2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Professional%20Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=godly-raam&color=blueviolet&style=flat-square&label=Profile+Views" />
-</div>
+echo "Actively investigating real-world attack chains and building the tools to execute them."
